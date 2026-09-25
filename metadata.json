@@ -1,0 +1,6 @@
+{
+  "name": "Alex Bloom - Coaching & Podcast Studio",
+  "description": "Podcast studio and education community empowering female business coaches to grow and scale their businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
